@@ -1,0 +1,8 @@
+.jumbotron {
+  background: url("mountains3.jpg") no-repeat center;
+  background-size: cover;
+}
+
+.jumbotron hr {
+  border-color: #b2b2b2;
+}
