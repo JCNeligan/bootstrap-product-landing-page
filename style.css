@@ -6,3 +6,7 @@
 .jumbotron hr {
   border-color: #b2b2b2;
 }
+
+.card-img-top {
+  width: 100%;
+}
