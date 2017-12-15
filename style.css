@@ -1,4 +1,9 @@
+body {
+  position: relative;
+}
+
 .jumbotron {
+  margin-top: 50px;
   background: url("mountains3.jpg") no-repeat center;
   background-size: cover;
 }
@@ -7,6 +12,27 @@
   border-color: #b2b2b2;
 }
 
+.app-summary {
+  margin-top: 50px;
+  margin-bottom: 50px;
+ 
+}
+
+.card-deck {
+  padding-bottom: 50px;
+}
+
 .card-img-top {
   width: 100%;
+}
+
+footer {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  background-color: #001a00;
+}
+
+#app-store-icon {
+  width: 200px;
 }
